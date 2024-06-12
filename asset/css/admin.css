@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+.control{
+    margin-top: 7px;
+}
+.control label{
+    display: block;
+    margin-bottom: 5px;
+
+}
+h2 {
+    margin: 0;
+    color:cadetblue;
+}
+.control input {
+    margin: 0;
+    box-shadow: 0 0 5px 0 rgb(97, 168, 204);
+    color:rgb(4, 60, 37);
+
+}
